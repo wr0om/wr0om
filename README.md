@@ -16,6 +16,7 @@
 [<img align="left" alt="Rom | Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 <br />
+<br />
 
 ### Recent & Fun Projects I Made:
 [<img align="left" alt="wr0om | Cicada" width="80px" src="https://i.ibb.co/Mpxxytj/ic-launcher-round.png" />][Cicada]
