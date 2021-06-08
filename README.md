@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to play video games
 
 
-### Connect with me:
+### Connect Me:
 
 [<img align="left" alt="rom-himelstein-1bab4a20a | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rom | Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
