@@ -1,7 +1,6 @@
 ### Hi there, I'm Rom - aka wr0om 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/wr0om?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwr0om&screen_name=wr0om)
 
 ## I'm a Student, Coder and I study Cyber Security
 
