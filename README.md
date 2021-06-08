@@ -15,6 +15,7 @@
 
 [<img align="left" alt="wr0om | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rom-himelstein-1bab4a20a | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rom | Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 <br />
 
@@ -30,3 +31,4 @@
 [linkedin]: https://www.linkedin.com/in/rom-himelstein-1bab4a20a
 [Cicada]: https://github.com/wr0om/Cicada
 [AMAN]: https://github.com/wr0om/AMAN-Passover-2021-Writeup
+[Gmail]: mailto:romh2010@gmail.com
