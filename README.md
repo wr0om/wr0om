@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to play video games
 
 
-### Contact Me (for personal / business reasons):
+### Contact Me (for personal / business inquiries):
 
 [<img align="left" alt="Rom | Gmail" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
