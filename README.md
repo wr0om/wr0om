@@ -12,7 +12,7 @@
 
 ### Contact Me (for personal / business reasons):
 
-[<img align="left" alt="Rom | Gmail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
+[<img align="left" alt="Rom | Gmail" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 <br />
 <br />
