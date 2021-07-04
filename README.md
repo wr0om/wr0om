@@ -27,7 +27,6 @@
 
 
 [twitter]: https://twitter.com/wr0om
-[linkedin]: https://www.linkedin.com/in/rom-himelstein-1bab4a20a
 [Cicada]: https://github.com/wr0om/Cicada
 [AMAN]: https://github.com/wr0om/AMAN-Passover-2021-Writeup
-[Gmail]: mailto:romh2010@gmail.com
+[Gmail]: mailto:roclan.2016@gmail.com
