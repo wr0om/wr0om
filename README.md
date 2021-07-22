@@ -9,24 +9,11 @@
 - 🥅 2021 Goals: Create more writeups for my favorite challenges
 - ⚡ Fun fact: I love to play video games
 
-
-### Contact Me (for personal / business inquiries):
-
-[<img align="left" alt="Rom | Gmail" width="70px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
-
-<br />
-<br />
-<br />
-
 ### Recent & Fun Projects:
 [<img align="left" alt="wr0om | Cicada" width="80px" src="https://i.ibb.co/Mpxxytj/ic-launcher-round.png" />][Cicada]
 [<img align="left" alt="wr0om | AMAN-CHALLENGE" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/68/AmanLogo.svg" />][AMAN]
 
 <br />
-<br />
 
-
-[twitter]: https://twitter.com/wr0om
 [Cicada]: https://github.com/wr0om/Cicada
 [AMAN]: https://github.com/wr0om/AMAN-Passover-2021-Writeup
-[Gmail]: mailto:roclan.2016@gmail.com
