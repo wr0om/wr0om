@@ -5,7 +5,6 @@
 ## I'm a Student, Coder and I study Cyber Security
 
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking for my first coding job
 - 🥅 2021 Goals: Create more writeups for my favorite challenges
 - ⚡ Fun fact: I love to play video games
 
